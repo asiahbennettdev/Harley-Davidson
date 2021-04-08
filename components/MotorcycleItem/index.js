@@ -6,11 +6,11 @@ import styles from './styles';
 //declare functional component 
 //renders JSX
 const MotorcycleItem = (props) => {
-    const name = props.name;
-    const tagline = props.tagline;
-    const image = props.image;
-    const taglineCTA = props.taglineCTA;
-    // const { name, tagline, taglineCTA, image } = props; //implement props render information based on props
+    // const name = props.name;
+    // const tagline = props.tagline;
+    // const image = props.image;
+    // const taglineCTA = props.taglineCTA;
+    const { name, tagline, taglineCTA, image } = props.motorcycle; //implement props render information based on props
 
     return (
         <View style={styles.vehicleContainer}>

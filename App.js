@@ -1,20 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View, ImageBackground } from 'react-native';
-import MotorcycleItem from './components/MotorcycleItem';
+import { StyleSheet, View} from 'react-native';
+import MotorcycleList from './components/MotorcycleList';
 
 export default function App() {
   return (
     <View style={styles.container}>
-
-
-      <MotorcycleItem 
-        name={'Superlow'} 
-        tagline={'Order Online For'} 
-        taglineCTA={'Touchless Delivery'}//CTA Call To Action...hyperlink
-        image={require('./assets/images/WomanHarley.jpg')}/>
-      <StatusBar style="auto" /> 
-    
+      <MotorcycleList /> 
+      <StatusBar style="auto" />  
     </View>
   );
 }
@@ -26,8 +19,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  
-
 });
 
 
