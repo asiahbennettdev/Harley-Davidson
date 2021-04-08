@@ -8,8 +8,13 @@ export default function App() {
     <View style={styles.container}>
 
 
-      <MotorcycleItem/>
+      <MotorcycleItem 
+        name={'Superlow'} 
+        tagline={'Order Online For'} 
+        taglineCTA={'Touchless Delivery'}//CTA Call To Action...hyperlink
+        image={require('./assets/images/WomanHarley.jpg')}/>
       <StatusBar style="auto" /> 
+    
     </View>
   );
 }
