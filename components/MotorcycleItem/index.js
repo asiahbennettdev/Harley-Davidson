@@ -54,4 +54,4 @@ export default MotorcycleItem;
 
 //define property of text content 
 //TODO
-// insert {linking} for hyperlink text onClick - custom order, exsiting inventory, and touchless delivery
+// insert {linking} for hyperlink text onClick - custom order, exsiting inventory

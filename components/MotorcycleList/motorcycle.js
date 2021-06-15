@@ -1,5 +1,5 @@
 export default [{
-    name: 'Harley Davidson Superlow',
+    name: 'Electric Livewire',
     tagline: 'Order Online for',
     taglineCTA: 'Touchless Delivery',
     image: require('../../assets/images/ElectricLivewire2.jpg'),
