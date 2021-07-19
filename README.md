@@ -18,6 +18,8 @@ Modified from Vadim Savin tesla clone tutorial
 ![ screenshot of application](https://github.com/asiahbennettdev/Harley-Davidson/blob/master/assets/images/livewire.png)
 
 
+![ screenshot of application](https://github.com/asiahbennettdev/Harley-Davidson/blob/main/assets/images/livewire.png?raw=true)
+
 # How It's Made:
 React Native with ios simulator 
 
