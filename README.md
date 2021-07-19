@@ -15,9 +15,6 @@ Objective was to build hybrid mobile application using React-Native. and ios sim
 
 Modified from Vadim Savin tesla clone tutorial 
 
-![ screenshot of application](https://github.com/asiahbennettdev/Harley-Davidson/blob/master/assets/images/livewire.png)
-
-
 ![ screenshot of application](https://github.com/asiahbennettdev/Harley-Davidson/blob/main/assets/images/livewire.png?raw=true)
 
 # How It's Made:
